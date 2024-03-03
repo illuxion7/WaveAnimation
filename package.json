@@ -1,0 +1,26 @@
+{
+"name": "waveanimationilluxion7",
+"version": "1.0.0",
+"description": "This is a simple JavaScript program to generate a dynamic wave animation on an HTML canvas. The animation creates the effect of turbulent ocean waves.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/illuxion7/WaveAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "illuxion7",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
